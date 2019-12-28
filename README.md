@@ -1,6 +1,6 @@
 # Darabni
 
-Darabni application developed on Android platform .The app aims to help student who is looking for training and the training providers in one place. The app will provide training providers the ability to register in the app and publish their opportunities so students can view all the opportunities published. Likewise, the students will register on the app and fill their information’s then the app will automatically create a digital cv from the information entered by the student on the registration process. In this way the app gives an opportunity for the training providers to publish their opportunities and help the student to pick up a proper training chance in an easy way.
+Darabni application developed on Android platform .The app aims to connect student who is looking for training and the training providers in one place. The app will provide training providers the ability to register in the app and publish their opportunities so students can view all the opportunities published. Likewise, the students will register on the app and fill their information’s then the app will automatically create a digital cv from the information entered by the student on the registration process. In this way the app gives an opportunity for the training providers to publish their opportunities and help the student to pick up a proper training chance in an easy way.
 
 ## Screenshots
 Splash Screen            |  loginAs Page |  Homepage
