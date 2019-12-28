@@ -11,6 +11,6 @@ Login Page           |  Company Registration Page |   Training Detail Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![home_pagesss](https://mostaql.hsoubcdn.com/uploads/521592-av7KK-1564324490-5d3db28a23501.png)  | ![add chalet_a](https://mostaql.hsoubcdn.com/uploads/521592-ljQjD-1564324490-5d3db28a52c24.png) | ![add chalet_b](https://mostaql.hsoubcdn.com/uploads/521592-MEjEA-1564324490-5d3db28a8960e.png)
 
-Applicants List Page           |  Company Applicants Detail Page 
-:-------------------------:|:-------------------------:
-![home_pagesss2](https://mostaql.hsoubcdn.com/uploads/521592-SDiT8-1564324490-5d3db28ab42f8.png)  | ![add chalet_a2](https://mostaql.hsoubcdn.com/uploads/521592-oGtOy-1577547155-5e077593ae2ae.png)
+Applicants List Page
+:-------------------------:
+![home_pagesss2](https://mostaql.hsoubcdn.com/uploads/521592-SDiT8-1564324490-5d3db28ab42f8.png)
